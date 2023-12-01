@@ -1,8 +1,8 @@
 ---
-title: F.A.Q.
-authors: pieroproietti
-slug: faq
-lang: it
+عنوان: F.A.Q.
+نویسنده: pieroproietti
+سلوگ: faq
+زبان: it
 ---
 import Translactions from '@site/src/components/Translactions';
 
